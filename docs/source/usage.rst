@@ -3,14 +3,14 @@ Usage
 
 .. _installation:
 
-Installation
+How to Prepare 🥘
 ------------
 
-To use Lumache, first install it using pip:
+Clone this repository
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   git clone https://github.com/Joshua-Oladeji/GingerBread.git
 
 Creating recipes
 ----------------
