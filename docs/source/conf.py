@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'GingerBread-Documetation'
+copyright = '2022, Graziella'
 author = 'Graziella'
 
 release = '0.1'
@@ -21,7 +21,7 @@ extensions = [
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'sphinx': ('https://www.sphinx-dzoc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
 
