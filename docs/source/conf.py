@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'GingerBread-Documetation'
-copyright = '2022, Graziella'
-author = 'Graziella'
+project = 'GingerBread Documentation'
+copyright = '2022, ShootFish'
+author = 'ShootFish'
 
 release = '0.1'
 version = '0.1.0'
