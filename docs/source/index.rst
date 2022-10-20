@@ -2,7 +2,7 @@ Welcome to GingerBread documentation!
 ===================================
 
 **GingerBread 🍪** is a bot for executing arbitrage trades using flash swaps on the avalanche C-chain.
-Has the option to log succesful arbitrage trades on Telegram.
+Has the option to log successful arbitrage trades on Telegram.
 
 
 Check out the :doc:`usage` section for further information, including
