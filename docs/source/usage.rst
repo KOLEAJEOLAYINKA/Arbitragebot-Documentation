@@ -46,6 +46,7 @@ You might want to know the purpose of each method if you want to tweak some thin
 **constructor(token0, token1)** 🔥
 - a new GingerBread is initialized with 2 parameters which represents the tokens that constitute a pair.
 - each parameter is an object containing the 'symbol', 'address' and 'volume' keys.... like so:
+
 .. code-block:: javascript
 
     {
@@ -53,7 +54,6 @@ You might want to know the purpose of each method if you want to tweak some thin
       address: '0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7',
       volume: 1000
     }
-
 
 - **volume** represents the amount of a particular tokens to be borrowed during the arbitrage.
 |
@@ -82,15 +82,7 @@ _______________
 |
 |
 
-Written originally as a submission for [@cryptofishx](https://twitter.com/cryptofishx/status/1491621931866599426?s=20&t=LnQLaVok2Aww0-gCxqYQdQ) bounty.
-gingerbread-clone
+Written originally as a submission for :ref:`@cryptofishx<https://twitter.com/cryptofishx/status/1491621931866599426?s=20&t=LnQLaVok2Aww0-gCxqYQdQ>`
 
 
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-
-.. autoexcep:: lumache.InvalidKindError
