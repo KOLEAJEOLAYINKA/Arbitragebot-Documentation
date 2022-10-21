@@ -56,16 +56,16 @@ You might want to know the purpose of each method if you want to tweak some thin
     }
 
 - **volume** represents the amount of a particular tokens to be borrowed during the arbitrage.
-bake() 👩‍🍳
----------
+- bake() 👩‍🍳
+-------
 - this method runs the bot by listening to every new block and executing arbitrage opportunities if they exist.
 taste() 🍰
----------
+------
 - logs the prices of the tokens on the `pangolin <https://pangolin.exchange/>`_ and `traderjoe <https://traderjoexyz.com/home#/>`_ DEXes.
 - logs the potential profit/loss realized if an arbitrage is attempted based on the current tokens prices.
 .. image:: https://user-images.githubusercontent.com/53357470/160957408-bfa8c628-baa0-45a8-bd82-d1f5be163d03.png
 serve() 🍽
-----------
+------
 - adds listeners for all events on the FlashSwapper contract. info from every event is then emitted to be logged to telegram.
 flourRemaining()
 _______________
