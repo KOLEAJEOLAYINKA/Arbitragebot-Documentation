@@ -20,4 +20,12 @@ Contents
    usage
    references
    contracts
+   dex
+   scripts
+   test
+   utilis
+   flashbot
+   hardhat.confit
+
+
 
