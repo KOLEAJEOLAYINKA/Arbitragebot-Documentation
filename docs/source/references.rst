@@ -5,9 +5,9 @@ References
 
 Important links
 ---------------
-- Avalanche Fuji Faucet :ref:`here<https://faucet.avax-test.network/>`.
-- Wrap your Avalanche Test Tokens to pay for the Flash-loan Fees :ref:`here<https://testnet.snowtrace.io/address/0xd00ae08403b9bbb9124bb305c09058e32c39a48c#writeContract>`.
-- Staging AAVE Protocol to provide your own liquidity :ref:`click here` [here](https://staging.aave.com/)
+- Avalanche Fuji Faucet `here <https://faucet.avax-test.network/>`_.
+- Wrap your Avalanche Test Tokens to pay for the Flash-loan Fees `here <https://testnet.snowtrace.io/address/0xd00ae08403b9bbb9124bb305c09058e32c39a48c#writeContract>`_.
+- Staging AAVE Protocol to provide your own liquidity `click here <https://staging.aave.com/>`_
 
 |
 
@@ -38,12 +38,12 @@ AVALANCHE FUJI Network
 
 **Currency Symbol**: AVAX
 
-**Block Explorer URL**: :ref:`CChain<https://cchain.explorer.avax-test.network>`
+**Block Explorer URL**: `CChain <https://cchain.explorer.avax-test.network>`_
 
 
 
 
-test
+
 
 .. autosummary::
    :toctree: generated
