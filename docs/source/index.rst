@@ -18,6 +18,6 @@ Contents
 .. toctree::
 
    usage
-   :api:
-   :contracts:
+   api
+   contracts
 
