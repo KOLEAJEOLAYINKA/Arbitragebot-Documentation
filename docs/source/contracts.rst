@@ -1,5 +1,5 @@
-Usage
-=====
+Contracts
+=========
 
 .. _installation:
 
