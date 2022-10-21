@@ -18,6 +18,6 @@ Contents
 .. toctree::
 
    usage
-   References
+   references
    contracts
 
