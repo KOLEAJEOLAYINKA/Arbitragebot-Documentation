@@ -1,4 +1,4 @@
-dex
+test
 =========
 
 .. _installation:

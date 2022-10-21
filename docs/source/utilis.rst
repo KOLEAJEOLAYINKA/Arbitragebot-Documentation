@@ -1,4 +1,4 @@
-dex
+Utilis
 =========
 
 .. _installation:

@@ -1,4 +1,4 @@
-dex
+Scripts.rst
 =========
 
 .. _installation:

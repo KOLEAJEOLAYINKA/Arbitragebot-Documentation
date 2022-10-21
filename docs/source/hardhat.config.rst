@@ -1,4 +1,4 @@
-dex
+hardhat.config
 =========
 
 .. _installation:
