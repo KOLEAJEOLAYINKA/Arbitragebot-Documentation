@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+Welcome to GingerBread documentation!
 =======================================
 
-This GitHub template includes fictional Python library
+This GitHub repository includes fictional Python library
 with some basic Sphinx docs.
 
-Read the tutorial here:
+Read the documentation here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://gingerbread-documentation.readthedocs.io/en/latest/
